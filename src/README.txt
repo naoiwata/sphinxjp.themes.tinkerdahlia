@@ -1,5 +1,5 @@
 =========================================
-sphinxjp.themes.tinkerbelizeholesidebar
+sphinxjp.themes.tinkerdahlia
 =========================================
 
 Output sample
