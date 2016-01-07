@@ -147,7 +147,7 @@ pre span, pre var, pre em{
  */
 
 a {
-    color: #16A085;
+    color: #4183D7;
     line-height: 1.4em;
 }
 
@@ -155,13 +155,13 @@ a:hover, a:focus{
     line-height: 1.4em;
     border: none;
     text-decoration: underline;
-    color: #1ABC9C !important;
+    color: #22A7F0 !important;
 }
 
 h1 a:hover, h1 a:focus {
-    border-bottom: 2px solid #1ABC9C;
+    border-bottom: 2px solid #22A7F0;
     text-decoration: none;
-    color: #1ABC9C !important;
+    color: #22A7F0 !important;
 }
 
 body {
@@ -196,7 +196,7 @@ nav li {
 }
 
 nav li a{
-    color: #16A085;
+    color: #4183D7;
     text-decoration: none;
     font-size: 20px;
     font-family: "PT Sans",sans-serif;
@@ -234,7 +234,7 @@ nav a {
 
 header h1 a{
     border: none;
-    color: #16A085;
+    color: #4183D7;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 42px;
@@ -258,7 +258,7 @@ header h2 {
 /* Content */
 
 span.title_tag, span.title_category{
-    color: #16A085;
+    color: #4183D7;
 }
 
 .main-container, header, nav, #container{
@@ -426,7 +426,7 @@ aside section {
     border: none;
     padding: 10px;
     outline:0;
-    color: #16A085;
+    color: #4183D7;
     background: none;
     width: 155px;
     border-radius: 4px;
